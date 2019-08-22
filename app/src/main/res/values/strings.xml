@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Acme</string>
+    <string name="dialog_button">Install</string>
+    <string name="dialog_text">Install the LumApps application from the PlayStore</string>
+    <string name="dialog_title">LumApps is not installed</string>
+</resources>
