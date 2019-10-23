@@ -1,4 +1,8 @@
 # launcher-app-android
+Template app to start the LumApps application from a custom icon/application
+* LumApps doesn't provide any support on this github repository, please contact a LumApps Customer Success Management representative or the support team for any question regarding this project
+* This template is intended for specific customer needs and is not required to use the LumApps product. 
+You can directly download and use the LumApps Android application from the [Google Play Store](https://play.google.com/store/apps/details?id=com.lumapps.android)
 
 ## Application ID
 Every Android app has a unique application ID, such as `com.mycompany.myintranet`. It uniquely identifies your app on the device and on the Google Play Store. So once you publish your app, *you should never change the application ID*.
